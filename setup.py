@@ -38,9 +38,9 @@ setup(
     packages=["simplesurvey"],
 
     install_requires=[
-        "numpy == 1.11.0",
+        "numpy == 1.22.0",
         "scipy == 0.18.1",
-        "numpy == 1.11.0",
+        "numpy == 1.22.0",
         "termcolor==1.1.0",
         "pandas >= 0.19.0"
     ],
